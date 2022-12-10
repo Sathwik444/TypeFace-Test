@@ -1,0 +1,15 @@
+Request:
+    id            : Request Id
+    api           : Id of API
+    user          : Id of user
+    response_time : Integer
+    status_code   : Integer
+    time          : Time
+
+User:
+    id            : User Id
+    name          : String
+
+API:
+    id            : API id
+    name          : String
